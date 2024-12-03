@@ -4,6 +4,7 @@ I'm Corinthian. I am a student studying cybersecurity. In my free time I learn a
 I love thinkpads, the grateful dead, chess, and mtg. I also am an aspiring demoscener.
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
+
 🧙‍♂️ **HackTheBox**: *https://app.hackthebox.com/users/1662290*
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=th3corinthian&show_icons=true&theme=dark" />
