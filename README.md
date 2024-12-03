@@ -6,6 +6,8 @@ I love thinkpads, the grateful dead, chess, and mtg. I also am an aspiring demos
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
 
 🧙‍♂️ **HackTheBox**: *https://app.hackthebox.com/users/1662290*
+
+
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=th3corinthian&show_icons=true&theme=dark" />
 </a>
