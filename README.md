@@ -1,7 +1,7 @@
 ## Hi there 🕵🏻‍♂️
 I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, cryptography, and offensive security.
 
-I am a lover of thinkpads, the grateful dead, chess, and mtg. I also am an aspiring demoscener.
+I am a lover of thinkpads, the grateful dead, chess, playing video games, and mtg. I also am an aspiring demoscener, and hope to someday make video games.
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
 
