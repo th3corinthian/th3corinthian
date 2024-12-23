@@ -7,6 +7,7 @@ I am a lover of thinkpads, the grateful dead, the bass, chess, video games, and 
 
 🧙‍♂️ **HackTheBox**: *https://app.hackthebox.com/users/1662290*
 
+🧢 **X/Twitter**: *https://x.com/th3corinthi4n*
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=th3corinthian&show_icons=true&theme=dark" />
