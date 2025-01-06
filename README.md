@@ -6,24 +6,16 @@ I like making electronic music, and going to soon start assembling my very own e
 I am a lover of thinkpads, the grateful dead, the bass, chess, video games, and mtg. I also am an aspiring demoscener, I make demos for modern hardware, the C64, MS-DOS, Atari ST, and Amiga 500/1200. I hope to someday make video games as well.
 
 The main languages I experiment and mess around in are:
-Assembly for x86 and 6502 Architecture, and Microsoft Assembly
 
+- Assembly for x86 and 6502 Architecture, and Microsoft Assembly
 - C/C++
-
 - Rust
-
 - Go
-
 - Python
-
 - Perl
-
 - Lua
-
 - Powershell
-
 - Emacs LISP
-
 - Bash
 
 - JavaScript/TypeScript
