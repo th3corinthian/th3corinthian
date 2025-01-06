@@ -1,5 +1,7 @@
 ## Hi there 🕵🏻‍♂️
-Hi, I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, cryptography, and offensive security.
+Hi, I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, mathematics, cryptography, and offensive security.
+
+I like making electronic music, and going to soon start assembling my very own electronic instruments/modular synths.
 
 I am a lover of thinkpads, the grateful dead, the bass, chess, video games, and mtg. I also am an aspiring demoscener, I make demos for modern hardware, the C64, MS-DOS, Atari ST, and Amiga 500/1200. I hope to someday make video games as well.
 
