@@ -8,17 +8,11 @@ I am a lover of thinkpads, the grateful dead, the bass, chess, video games, and 
 The main languages I experiment and mess around in are:
 
 - Assembly for x86 and 6502 Architecture, and Microsoft Assembly
-- C/C++
+- C
 - Rust
 - Go
-- Python
-- Perl
 - Lua
-- Powershell
-- Emacs LISP
-- Bash
-
-- JavaScript/TypeScript
+- Emacs LISP, Common LISP, Scheme, Racket
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
 
