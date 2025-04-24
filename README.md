@@ -1,16 +1,7 @@
 ## Hi there 🕵🏻‍♂️
 Hi, I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, mathematics, cryptography, and offensive security.
 
-I am a lover of thinkpads, the grateful dead, the bass, chess, video games, making electronic music, and mtg. I also am an aspiring demoscener, I make demos for modern hardware, the C64, MS-DOS, Atari ST, and Amiga 500/1200. I hope to someday make video games as well.
-
-The main languages I experiment and mess around in are:
-
-- Assembly for x86 and 6502 Architecture, and Microsoft Assembly
-- C
-- Rust
-- Go
-- Lua
-- Emacs LISP, Common LISP, Scheme, Racket
+I am a lover of thinkpads, the grateful dead, the bass, chess, video games, making electronic music, and mtg. 
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
 
