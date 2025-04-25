@@ -1,7 +1,5 @@
 ## Hi there 🕵🏻‍♂️
-Hi, I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, mathematics, cryptography, and offensive security.
-
-I am a lover of thinkpads, the grateful dead, the bass, chess, video games, making electronic music, and mtg. 
+Hi, I'm Corinthian. I am a student studying cybersecurity. In my free time I learn about operating system internals, pentesting, malware, cryptography, and offensive security.
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *A+*, *Network+*
 
