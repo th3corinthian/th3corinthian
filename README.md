@@ -1,5 +1,5 @@
 ## Hi there 🕵🏻‍♂️
-Hi, I'm Corinthian. I am a student studying cybersecurity, and I work in IT. In my free time I learn about pentesting, malware/re, cryptography, and game development.
+Hi, I'm Corinthian. I am a student studying cybersecurity, and I work in IT. In my free time I learn about reverse engineering & cryptography.
 
 🍻 **Certifications**: *ITIL 4 Foundation*, *eJPT*, *A+*, *Network+*, *Security+*
 
