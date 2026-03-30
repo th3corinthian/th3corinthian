@@ -1,7 +1,7 @@
 ## Hi there 🕵🏻‍♂️
 Hi, I'm Corinthian. I am a student studying cybersecurity, and I work in IT. In my free time I learn about reverse engineering & cryptography.
 
-🍻 **Certifications**: *ITIL 4 Foundation*, *eJPT*, *A+*, *Network+*, *Security+*
+🍻 **Certifications**: *ITILv4 Foundation*, *eJPT*, *A+*, *Network+*, *Security+*
 
 🧙‍♂️ **HackTheBox**: *https://app.hackthebox.com/users/1662290*
 
